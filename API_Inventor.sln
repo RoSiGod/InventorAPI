@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "API_Inventor", "API_Inventor.vbproj", "{419102F1-AF39-491E-8891-3359246C767E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{419102F1-AF39-491E-8891-3359246C767E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{419102F1-AF39-491E-8891-3359246C767E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{419102F1-AF39-491E-8891-3359246C767E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{419102F1-AF39-491E-8891-3359246C767E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CF81EDA-9165-4C00-B4F4-FC870CCD4D30}
+	EndGlobalSection
+EndGlobal
